@@ -1,0 +1,12 @@
+C:\Users\evsterfyPC\Documents\Visual Studio 2017\Projects\Challenges\Challenges\Challenges\bin\Debug\Challenges.exe.config
+C:\Users\evsterfyPC\Documents\Visual Studio 2017\Projects\Challenges\Challenges\Challenges\bin\Debug\Challenges.exe
+C:\Users\evsterfyPC\Documents\Visual Studio 2017\Projects\Challenges\Challenges\Challenges\bin\Debug\Challenges.pdb
+C:\Users\evsterfyPC\Documents\Visual Studio 2017\Projects\Challenges\Challenges\Challenges\obj\Debug\Challenges.frmMain.resources
+C:\Users\evsterfyPC\Documents\Visual Studio 2017\Projects\Challenges\Challenges\Challenges\obj\Debug\Challenges.Properties.Resources.resources
+C:\Users\evsterfyPC\Documents\Visual Studio 2017\Projects\Challenges\Challenges\Challenges\obj\Debug\Challenges.csproj.GenerateResource.cache
+C:\Users\evsterfyPC\Documents\Visual Studio 2017\Projects\Challenges\Challenges\Challenges\obj\Debug\Challenges.csproj.CoreCompileInputs.cache
+C:\Users\evsterfyPC\Documents\Visual Studio 2017\Projects\Challenges\Challenges\Challenges\obj\Debug\Challenges.exe
+C:\Users\evsterfyPC\Documents\Visual Studio 2017\Projects\Challenges\Challenges\Challenges\obj\Debug\Challenges.pdb
+C:\Users\evsterfyPC\Documents\Visual Studio 2017\Projects\Challenges\Challenges\Challenges\obj\Debug\Challenges.frmFactorialFind.resources
+C:\Users\evsterfyPC\Documents\Visual Studio 2017\Projects\Challenges\Challenges\Challenges\obj\Debug\Challenges.frmSpeedTracker.resources
+C:\Users\evsterfyPC\Documents\Visual Studio 2017\Projects\Challenges\Challenges\Challenges\obj\Debug\Challenges.csprojResolveAssemblyReference.cache
