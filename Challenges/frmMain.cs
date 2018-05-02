@@ -32,5 +32,13 @@ namespace Challenges
             form.ShowDialog();
             Close();
         }
+
+        private void btnThief_Click(object sender, EventArgs e)
+        {
+            frmThief form = new frmThief();
+            Hide();
+            form.ShowDialog();
+            Close();
+        }
     }
 }

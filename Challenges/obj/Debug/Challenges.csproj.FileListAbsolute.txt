@@ -10,3 +10,4 @@ C:\Users\evsterfyPC\Documents\Visual Studio 2017\Projects\Challenges\Challenges\
 C:\Users\evsterfyPC\Documents\Visual Studio 2017\Projects\Challenges\Challenges\Challenges\obj\Debug\Challenges.frmFactorialFind.resources
 C:\Users\evsterfyPC\Documents\Visual Studio 2017\Projects\Challenges\Challenges\Challenges\obj\Debug\Challenges.frmSpeedTracker.resources
 C:\Users\evsterfyPC\Documents\Visual Studio 2017\Projects\Challenges\Challenges\Challenges\obj\Debug\Challenges.csprojResolveAssemblyReference.cache
+C:\Users\evsterfyPC\Documents\Visual Studio 2017\Projects\Challenges\Challenges\Challenges\obj\Debug\Challenges.frmThief.resources

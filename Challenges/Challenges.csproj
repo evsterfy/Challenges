@@ -63,6 +63,12 @@
     <Compile Include="frmSpeedTracker.Designer.cs">
       <DependentUpon>frmSpeedTracker.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmThief.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThief.Designer.cs">
+      <DependentUpon>frmThief.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmFactorialFind.resx">
@@ -73,6 +79,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmSpeedTracker.resx">
       <DependentUpon>frmSpeedTracker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThief.resx">
+      <DependentUpon>frmThief.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -32,6 +32,7 @@
             this.btnNext = new System.Windows.Forms.Button();
             this.btnPrev = new System.Windows.Forms.Button();
             this.btnSpeedTrack = new System.Windows.Forms.Button();
+            this.btnThief = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnFactorialFind
@@ -72,11 +73,22 @@
             this.btnSpeedTrack.UseVisualStyleBackColor = true;
             this.btnSpeedTrack.Click += new System.EventHandler(this.btnSpeedTrack_Click);
             // 
+            // btnThief
+            // 
+            this.btnThief.Location = new System.Drawing.Point(174, 13);
+            this.btnThief.Name = "btnThief";
+            this.btnThief.Size = new System.Drawing.Size(75, 34);
+            this.btnThief.TabIndex = 4;
+            this.btnThief.Text = "Thief!";
+            this.btnThief.UseVisualStyleBackColor = true;
+            this.btnThief.Click += new System.EventHandler(this.btnThief_Click);
+            // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(434, 411);
+            this.Controls.Add(this.btnThief);
             this.Controls.Add(this.btnSpeedTrack);
             this.Controls.Add(this.btnPrev);
             this.Controls.Add(this.btnNext);
@@ -95,6 +107,7 @@
         private System.Windows.Forms.Button btnNext;
         private System.Windows.Forms.Button btnPrev;
         private System.Windows.Forms.Button btnSpeedTrack;
+        private System.Windows.Forms.Button btnThief;
     }
 }
 
