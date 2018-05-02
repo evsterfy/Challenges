@@ -140,6 +140,5 @@ namespace Challenges
 
             lblCount.Text = output.Count.ToString() + " Combinations";
         }
-
     }
 }
